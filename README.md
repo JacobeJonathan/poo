@@ -113,3 +113,7 @@ Composición
   - Legibilidad
   - Resolución Rápida de Problemas
   - - ![Clase](src/11.png)
+        ```php
+        Resolviendo con diagrama uml 
+        ```
+    - ![Clase](src/12.png)
